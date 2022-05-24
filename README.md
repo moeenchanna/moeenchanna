@@ -1,14 +1,14 @@
-# Hello World, Moeen Channa here! 
+## Hello World, I'm [Moeen Channa!](https://pawan.live) 👋
 
 
 # 💫About Me :
-🔭 I’m currently working on Tapsys.
-🌱 I’m currently learning more about BlockChain.
-👯 I’m looking to collaborate on Youtube.
-💬 Ask me about Flutter, React Native or any tech-related stuff.
-📫 How to reach me: Twitter - @moeenchannah , Youtube - moeenchanna
-😄 Pronouns: He/Him/His
-⚡ Fun fact: A coder who doesn't like coffee.
+- 🔭 I’m currently working on Tapsys.
+- 🌱 I’m currently learning more about BlockChain.
+- 👯 I’m looking to collaborate on Youtube.
+- 💬 Ask me about Flutter, React Native or any tech-related stuff.
+- 📫 How to reach me: Twitter - @moeenchannah , Youtube - moeenchanna
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: A coder who doesn't like coffee.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/moeenchannah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moeenchanna)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/moeenchannah) 
@@ -22,7 +22,7 @@
 
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
