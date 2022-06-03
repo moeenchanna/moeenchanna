@@ -1,4 +1,4 @@
-## Hello World, I'm [Moeen Channa!](https://pawan.live) 👋
+## Hello World, I'm [Moeen Channa!] (https://pawan.live) 👋
 
 
 # 💫About Me :
