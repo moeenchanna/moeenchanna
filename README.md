@@ -1,4 +1,4 @@
-## Hello World, I'm [Moeen Channa!]👋
+## Hello World, I'm Moeen Channa! 👋
 
 
 # 💫About Me :
