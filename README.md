@@ -3,8 +3,7 @@
 
 # 💫About Me :
 - 🔭 I’m currently working on Tapsys.
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on Youtube.
+- 🌱 I’m currently learning more about AI.
 - 💬 Ask me about Flutter, React Native or any tech-related stuff.
 - 📫 How to reach me: Twitter - @moeenchanna
 - 😄 Pronouns: He/Him/His
